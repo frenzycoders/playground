@@ -1,0 +1,70 @@
+setInterval {
+
+    const game = Game.create()
+
+    game_id
+
+    high_low.create(game_id)
+    odd_even.create(game_id)
+
+    setTimeout() {
+        game_status =betting band
+        // yaha pe calculation start
+
+
+
+    }
+
+
+
+}
+
+app.post('/bet', {
+
+
+used_id 
+amount
+game_id = game.find().sort(-1)
+
+
+})
+
+
+let cureentActiveGameId = '';
+
+fun () {
+    game = lucky7.create({});
+   crr = game.id;
+    //
+    low_high.create(game.id);
+    ///........
+    setTimeout(() => {
+        game.status = "betting close"
+        await game.save()
+        calc(game.id);
+        io.emit('');
+    }, 30000)
+
+}
+
+fn();
+
+setInterval(() => {
+    currentGame.status === result  {
+
+    fn()
+    }
+},60000);
+
+calc(game.id){
+
+}
+
+
+api
+
+POST:/craete-betting/
+body:{
+    "invest":"100"
+}
+isAuth,WalletAuth
